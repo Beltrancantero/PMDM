@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angel\\Desktop\\CHESTE\\PMDM\\PROYECTO\\Primer example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\angel\\desktop\\cheste\\pmdm\\proyecto\\primer example\\assets\\scripts\\caprula\\velocitat_gravedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\caprula\\velocitat_gravedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\angel\\desktop\\cheste\\pmdm\\proyecto\\primer example\\assets\\scripts\\caprula\\rotacion_jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\caprula\\rotacion_jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\angel\\desktop\\cheste\\pmdm\\proyecto\\primer example\\assets\\scripts\\caprula\\movimientoprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\caprula\\movimientoprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\angel\\desktop\\cheste\\pmdm\\proyecto\\primer example\\assets\\scripts\\caprula\\irotacio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\caprula\\irotacio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\angel\\desktop\\cheste\\pmdm\\proyecto\\primer example\\assets\\scripts\\caprula\\velocitat_caminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\caprula\\velocitat_caminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\angel\\desktop\\cheste\\pmdm\\proyecto\\primer example\\assets\\scripts\\caprula\\ivelocitat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\caprula\\ivelocitat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rotacion_Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\CHESTE\\PMDM\\PROYECTO\\Primer example\\Assets\\Scripts\\Caprula\\Rotacion_Jugador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Caprula\\Rotacion_Jugador.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\CHESTE\\PMDM\\PROYECTO\\Primer example\\Assets\\Scripts\\Caprula\\Rotacion_Jugador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Caprula\\Rotacion_Jugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T10:55:30.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRotacio.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\CHESTE\\PMDM\\PROYECTO\\Primer example\\Assets\\Scripts\\Caprula\\IRotacio.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Caprula\\IRotacio.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\CHESTE\\PMDM\\PROYECTO\\Primer example\\Assets\\Scripts\\Caprula\\IRotacio.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Caprula\\IRotacio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T10:44:57.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Velocitat_Gravedad.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\CHESTE\\PMDM\\PROYECTO\\Primer example\\Assets\\Scripts\\Caprula\\Velocitat_Gravedad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Caprula\\Velocitat_Gravedad.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\CHESTE\\PMDM\\PROYECTO\\Primer example\\Assets\\Scripts\\Caprula\\Velocitat_Gravedad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Caprula\\Velocitat_Gravedad.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T09:37:29.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovimientoPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\CHESTE\\PMDM\\PROYECTO\\Primer example\\Assets\\Scripts\\Caprula\\MovimientoPrincipal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Caprula\\MovimientoPrincipal.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\CHESTE\\PMDM\\PROYECTO\\Primer example\\Assets\\Scripts\\Caprula\\MovimientoPrincipal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Caprula\\MovimientoPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T09:26:39.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Velocitat_Caminar.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\CHESTE\\PMDM\\PROYECTO\\Primer example\\Assets\\Scripts\\Caprula\\Velocitat_Caminar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Caprula\\Velocitat_Caminar.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\CHESTE\\PMDM\\PROYECTO\\Primer example\\Assets\\Scripts\\Caprula\\Velocitat_Caminar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Caprula\\Velocitat_Caminar.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T09:13:02.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVelocitat.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\CHESTE\\PMDM\\PROYECTO\\Primer example\\Assets\\Scripts\\Caprula\\IVelocitat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Caprula\\IVelocitat.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\CHESTE\\PMDM\\PROYECTO\\Primer example\\Assets\\Scripts\\Caprula\\IVelocitat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Caprula\\IVelocitat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T09:08:54.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
